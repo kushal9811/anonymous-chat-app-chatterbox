@@ -1,0 +1,17 @@
+#navbar {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  background-color: yellow;
+}
+#footer {
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  position: sticky;
+  bottom: 0px;
+  background-color: rgb(113, 231, 111);
+}
+
+#content {
+  height: 2000px;
+}
