@@ -1,4 +1,4 @@
-# Social Media Project
+# Anonymous Chat App (Chatterbox)
 
 
 ## Database Setup
